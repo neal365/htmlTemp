@@ -1,0 +1,212 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+margin: 0;
+padding: 0;
+border: 0;
+}
+body {
+padding: 0;
+background: #fff;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+p{font-size:12px}
+#content{
+	position: relative;
+	margin:0px auto;
+	width:1300px;
+	text-align:left;
+	}
+#one{
+	width:1300px;
+	height:10px;
+	background-color:#000;}
+#header {position: relative;
+	margin:0px auto; 
+	width:960px;
+	height:800px;}
+#text{
+	position:relative;
+	top:-10px;
+	float:right;
+	}
+	#text a{
+		text-decoration: none;
+		color:#626262;}
+#logo{
+	
+	float:left;
+	}
+.nav {
+	text-align:center;
+	width: 980px;
+	vertical-align:middle;
+			
+	}
+	.nav li {
+display: inline;
+background:url(nv.jpg);
+color:#000;
+font-size:13px;
+float:left;
+width:160px;
+line-height:70px;
+			text-align:center;
+			text-decoration:none;
+			height:70px;
+		padding-right:1px;
+}
+.nav li a {
+	background:url(nv1.jpg) ;
+			float:left;
+			border:#666;
+			color:#353535;
+			font-size:13px;
+					width:160px;
+			height:70px;
+			line-height:70px;
+			text-align:center;
+			text-decoration:none;
+			text-shadow:1px 1px 0 #fff;}
+.nav li a .last{background:url(23.jpg);}
+
+#main {
+	background-color:#2c2934;
+	width:1300px;
+	height:365px;
+	margin:0px auto;}
+	#id{
+	margin:0px auto;
+	width:960px}
+p.a{
+	color:#e9e9e9;
+	font-size:24px;
+	font-family:
+	"Comic Sans MS", cursive;
+	font-weight:bold;
+	}
+p.b{
+	text-align:center;}
+#strategy{
+	width:300px;
+	text-align:justify;
+	float:left;}
+#planning{
+	width:300px;
+		text-align:justify;
+	 margin: 0px 330px 0 330px;}
+#consulting{
+	width:300px;
+	text-align:justify;
+	float:right;
+	margin: -180px 0 0 0;}
+p.c{
+	color:#e9e9e9;}
+p.b{
+	color:#8a8a8a;}
+p.d{
+	text-align:center;}
+.f{
+	position:relative;
+	float:right;	}
+.e{
+	color:#F00;}
+#choose{
+	background-color:#f3f3f3;
+	margin:0px auto;
+	height:550px;
+	width:960px}
+#finance{
+	width:300px;
+	text-align:justify;
+	float:left;
+	margin:60px 0 0 0;}
+#taxes{width:300px;
+		text-align:justify;
+	 margin: 0 320px 0 320px;}
+#well{width:300px;
+		float:right;
+		margin:-400px 0 0 0;}
+#taxes a{
+	color:#C00;}
+#choose1{
+	background-color:#f3f3f3;
+	width:1300px;
+	height:550px;
+	}
+.gradient {
+    background:url(11.jpg) repeat-x; 
+    font-size: 9pt;
+	width:95px;
+	position:relative;
+	margin:5px 0 50px 0;
+    height: 40px;
+   }
+.gradient1{
+	 width:200px;
+	  height: 30px;}
+.ff{
+	font-size:24px;
+	font-family:
+	"Comic Sans MS", cursive;}
+#two{
+	width:1300px;
+	background-color:#eaeaec;}
+#footer{position: relative;
+	margin:0px auto; 
+	width:960px;
+	height:300px;
+	background-color:#eaeaec;
+	}
+#related{
+	width:240px;
+	position:relative;
+float:left;
+	}
+#address{width:240px;
+position:relative;
+	float:left }
+#company{width:240px;
+position:relative;
+	 float:left}
+#testmonials{width:240px;
+position:relative;
+float:left;
+	}
+.aa {
+	font-size:18px;
+	
+	font-family:
+	"Comic Sans MS", cursive;}
+#three{
+	width:1300px;
+	height:55px;
+	background-color:#d5d5d7;}
+#footer1{
+	position: relative;
+	margin:0px auto; 
+	width:960px;
+	background-color:#d5d5d7;}
+.red{
+	color:#ed2542;}
+.bb{
+	vertical-align: middle;
+	float:left;
+	color:#767676;}
+.vlinks{
+	vertical-align: middle;
+	float:left;
+	color:#767676;
+	font-size:12px
+	}
+.vlinks a {
+color:#F00;;
+text-decoration: underline;
+}
+
+.cc{font-family:
+	"Comic Sans MS", cursive;
+	float:right;
+	vertical-align: middle;
+	}
